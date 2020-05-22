@@ -1,0 +1,16 @@
+[
+{
+  "name":"raj",
+  "products":[
+    {
+    "product_name":"potatoes",
+    "product_price":20
+    },
+    
+    {
+    "product_name":"tomatoes",
+    "product_price":10
+    }
+  ]
+}
+]
